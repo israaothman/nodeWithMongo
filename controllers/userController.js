@@ -13,19 +13,19 @@ const allUsers = (req, res) => {
     });
 };
 
-const oneUser = (req, res) => {
-  // User.save .....
-};
-const newUser = (req, res) => {};
+// const oneUser = (req, res) => {
+//   // User.save .....
+// };
+// const newUser = (req, res) => {};
 
-const updateUser = (req, res) => {};
+// const updateUser = (req, res) => {};
 
-const deleteUser = (req, res) => {};
+// const deleteUser = (req, res) => {};
 
 module.exports = {
   allUsers,
-  newUser,
-  oneUser,
-  updateUser,
-  deleteUser,
+  // newUser,
+  // oneUser,
+  // updateUser,
+  // deleteUser,
 };
